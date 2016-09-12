@@ -1,3 +1,5 @@
 # python
 Pythons' exercises
-�wiczenia z pythona
+Ćwiczenia z pythona
+
+Rozwiązywanie przykładowych zadań.
